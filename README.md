@@ -7,7 +7,7 @@
 class KavunSama:
     def __init__(self):
         self.name = "Kavun-Sama"
-        self.skills = ["Python", "Telegram Bots", "Automation"]
+        self.skills = ["Python", "Reverse Engineering", "Telegram Bots"]
         self.contact = "t.me/kkkavun"
         self.timezone = "UTC+3 (Moscow)"
         self.projects = {
@@ -18,11 +18,6 @@ class KavunSama:
             "passion": "Creating useful Telegram bots",
             "belief": "Clean code should be accessible to everyone",
             "motto": "Automate everything, zero ads, zero restrictions",
-        }
-        self.status = {
-            "availability": True,
-            "interests": ["automation", "bot development"],
-            "appreciates": "Stars on repositories ⭐"
         }
         
     def greet(self):
