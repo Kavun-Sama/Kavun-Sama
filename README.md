@@ -3,7 +3,7 @@
 class KavunSama:
     def __init__(self):
         self.name = "Kavun-Sama"
-        self.skills = ["Python", "Automation", "Reverse Engineering"]
+        self.skills = ["Python", "Telegram Bots", "Automation"]
         self.contact = "t.me/kkkavun"
         self.timezone = "UTC+3 (Moscow)"
         
@@ -27,14 +27,7 @@ const about = {
 ```
 
 ```python
-# stack.py
 tech_stack = ["Python", "Telegram API", "Git"]
-```
-
-```bash
-$ ls -la ~/projects/
-drwxr-xr-x  8 kavun kavun 4096 Mar 1 2025 YT-DL-Bot/
-drwxr-xr-x  3 kavun kavun 4096 Mar 1 2025 future-projects/
 ```
 
 ```python
@@ -49,23 +42,32 @@ class YT_DL_Bot:
     repo = "https://github.com/Kavun-Sama/YT-DL-Bot"
 ```
 
+<div align="center">
+  <a href="https://github.com/Kavun-Sama/YT-DL-Bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kavun-Sama&repo=YT-DL-Bot&theme=dark" />
+  </a>
+</div>
+
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Kavun-Sama&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </p>
 
 ```bash
-$ curl -X GET https://api.telegram.org/contact/kkkavun
+curl -X GET https://api.telegram.org/contact/kkkavun
 # Response: {"username": "@kkkavun", "platform": "Telegram"}
 ```
 
 <p align="center">
   <a href="https://t.me/kkkavun">
-    <img src="https://img.shields.io/badge/Telegram-@kkkavun-blue?style=flat-square&logo=telegram" />
+    <img src="https://img.shields.io/badge/Telegram-@kkkavun-000000?style=flat-square&logo=telegram&logoColor=white" />
   </a>
 </p>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
+</div>
+
 ```javascript
-// status.js
 const status = {
   availability: true,
   interests: ["automation", "bot development"],
