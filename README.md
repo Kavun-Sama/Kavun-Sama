@@ -3,7 +3,7 @@
 class KavunSama:
     def __init__(self):
         self.name = "Kavun-Sama"
-        self.skills = ["Python", "Telegram Bots", "Automation"]
+        self.skills = ["Python", "Automation", "Reverse Engineering"]
         self.contact = "t.me/kkkavun"
         self.timezone = "UTC+3 (Moscow)"
         
